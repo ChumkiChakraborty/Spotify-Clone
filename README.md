@@ -11,6 +11,6 @@ Introducing a captivating Spotify clone crafted with HTML and CSS, Seamlessly de
 ### Project snips
 
 #### home-page 
-![image]()
+![image](https://github.com/ChumkiChakraborty/Spotify-Clone/blob/6fdf49f8e4a9371b01bf49781beb636496ddc2c6/Icons/Screenshot-1.png)
 #### playlist-page
-![image]()
+![image](https://github.com/ChumkiChakraborty/Spotify-Clone/blob/6fdf49f8e4a9371b01bf49781beb636496ddc2c6/Icons/Screenshot-%202.png)
